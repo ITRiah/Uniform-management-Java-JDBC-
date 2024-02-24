@@ -1,0 +1,4 @@
+CNTT,Công nghệ thông tin
+DT,Điện tử
+CKOTO,Cơ khí-Ô tô
+KK,Kế toán-Kiểm toán

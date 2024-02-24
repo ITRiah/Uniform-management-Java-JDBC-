@@ -1,0 +1,7 @@
+CNTT,Công nghệ thông tin,CNTT
+KTPM,Kỹ thuật phần mềm,CNTT
+CNCK,Công nghệ cơ khí,CKOTO
+CDT,Công nghệ kỹ thuật cơ điện tử,CKOTO
+DT,Điện tử,DT
+KT1,Kế toán,KK
+KT2,Kiểm toán,KK

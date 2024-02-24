@@ -1,0 +1,3 @@
+DH1,2020603093,Lê Văn Tùng,0988886898,Thái Nguyên,Giao nhanh,Đã hoàn thành,400000.0,2023-12-27,0
+DH3,2020603093,Nguyễn Văn A,0999999988,Nam Định,Giao sớm,Chờ duyệt,100000.0,2023-12-27,1
+DH4,2020606605,Lê Văn Tùng,098888888,Thái Nguyên,Giao nhanh,Chờ duyệt,400000.0,2023-12-27,0

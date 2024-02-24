@@ -1,0 +1,6 @@
+admin,Quản trị viên,2-2-2003,Thái Nguyên,03764664666,admin@gmail.com,BQL,K15
+2020606605,Nguyễn Thị Yến,2-2-2003,Thái Nguyên,03764664666,nguyenthiyen@gmail.com,KTMP1,K15
+2020606601,Nguyễn Viết Ha,1-1-2002,Hà Nội,0399999292,nguyenviethai@gmail.com,KTMP4,K15
+2020606607,Test 123,14-11-2002,Nghệ An,09876544,test@gmail.com,KTMP1,K15
+2020603093,Nguyễn Thị Yến,2-2-2003,Thái Nguyên,03764664666,nguyenthiyen@gmail.com,KTMP1,K15
+2020606605,Nguyễn Thị Yến,2-2-2003,Thái Nguyên,03764664666,nguyenthiyen@gmail.com,KTMP1,K15

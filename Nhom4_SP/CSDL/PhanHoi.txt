@@ -1,0 +1,3 @@
+PH1,2020603093,Ảnh chụp màn hình 2023-03-06 215615.png,1 sao,1
+PH2,2020606605,Picture1.png,1 sao,2
+PH3,2020603093,Haui.jpg,5 sao,áo đẹp

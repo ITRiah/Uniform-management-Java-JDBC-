@@ -1,0 +1,7 @@
+SP13,Quần áo thể dục,S,200000.0,284
+SP14,Quần áo thể dục,XL,200000.0,295
+SP15,Quần áo thể dục,2XL,200000.0,72
+SP16,Áo đồng phục,XL,180000.0,377
+SP17,Áo đồng phục,M,180000.0,546
+SP18,Ao khoa co khi,XL,200000.0,99
+SP19,Quần áo thể dục1,M,200000.0,586
